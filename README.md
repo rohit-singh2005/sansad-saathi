@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="public/ashoka-chakra.svg" alt="Ashoka Chakra" width="100"/>
-
 # 🏛️ SansadSaathi
 
 ### AI-Powered Indian Parliamentary Intelligence Platform
